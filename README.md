@@ -1,2 +1,2 @@
-# game
+# game app
 Code code 
